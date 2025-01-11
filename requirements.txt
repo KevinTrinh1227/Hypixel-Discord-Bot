@@ -3,4 +3,4 @@ requests==2.32.3
 python-dotenv==1.0.1
 pytz==2024.2
 chat-exporter==2.8.1
-pillow==10.4.0
+pillow==11.1.0
